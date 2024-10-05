@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local baseURL = "https://raw.githubusercontent.com/smsmdmsmsk/Roblox/refs/heads/main/doors.lua"
+local baseURL = "https://raw.githubusercontent.com/smsmdmsmsk/Roblox/refs/heads/main/doors.lua%20(6).txt"
 
 export type gameMapping = {
     exclusions: table?,
